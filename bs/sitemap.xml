@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://test.consultfirma.ba/bs/categories/</loc>
+    <loc>https://test.consultfirma.ba/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://test.consultfirma.ba/categories/"
+                href="https://test.consultfirma.ba/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,16 +17,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="https://test.consultfirma.ba/bs/categories/"
+                href="https://test.consultfirma.ba/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://test.consultfirma.ba/bs/</loc>
+    <loc>https://test.consultfirma.ba/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://test.consultfirma.ba/"
+                href="https://test.consultfirma.ba/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,16 +36,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="https://test.consultfirma.ba/bs/"
+                href="https://test.consultfirma.ba/"
                 />
   </url>
   
   <url>
-    <loc>https://test.consultfirma.ba/bs/tags/</loc>
+    <loc>https://test.consultfirma.ba/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://test.consultfirma.ba/tags/"
+                href="https://test.consultfirma.ba/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,7 +55,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="https://test.consultfirma.ba/bs/tags/"
+                href="https://test.consultfirma.ba/tags/"
                 />
   </url>
   
