@@ -52,6 +52,11 @@
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="bs"
+                href="https://test.consultfirma.ba/bs/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://test.consultfirma.ba/"
                 />
@@ -185,6 +190,11 @@
     <loc>https://test.consultfirma.ba/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="bs"
+                href="https://test.consultfirma.ba/bs/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://test.consultfirma.ba/categories/"
                 />
@@ -225,6 +235,11 @@
   
   <url>
     <loc>https://test.consultfirma.ba/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://test.consultfirma.ba/bs/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

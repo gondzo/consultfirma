@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://test.consultfirma.ba/bs/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://test.consultfirma.ba/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://test.consultfirma.ba/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://test.consultfirma.ba/bs/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://test.consultfirma.ba/bs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://test.consultfirma.ba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://test.consultfirma.ba/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://test.consultfirma.ba/bs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://test.consultfirma.ba/bs/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://test.consultfirma.ba/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://test.consultfirma.ba/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://test.consultfirma.ba/bs/tags/"
+                />
+  </url>
+  
+</urlset>
