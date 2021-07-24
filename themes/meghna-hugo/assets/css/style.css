@@ -240,6 +240,9 @@ a:hover {
 .section {
   padding: 100px 0;
 }
+.first-section{
+  padding:20px 0;
+}
 
 @media (max-width: 480px) {
   .section {
@@ -608,6 +611,11 @@ a:hover {
 
 .about .block .icon-box h3 {
   color: #afbac4;
+}
+
+.about .block .icon-box img {
+  width: 100px;
+  margin-top: -25px;
 }
 
 /*=================================================================

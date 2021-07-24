@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://test.consultfirma.ba"
-title = "Meghna"
+title = "ConsultFirma"
 theme = "meghna-hugo"
 themesDir = "./themes"
 # post pagination
@@ -44,93 +44,53 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "Haris"
 url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "ConsultFirma"
 url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Other"
 url = "#portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+weight = 4
 
 
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
+################### Bosnian Navigation ########################
+[[Languages.bs.menu.main]]
+name = "Haris"
 url = "#about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "un service"
+[[Languages.bs.menu.main]]
+name = "ConsultFirma"
 url = "#services"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "portefeuille"
+[[Languages.bs.menu.main]]
+name = "Ostalo"
 url = "#portfolio"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.fr.menu.main]]
-name = "contact"
+[[Languages.bs.menu.main]]
+name = "Kontakt"
 url = "#contact"
-weight = 7
-
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+weight = 4
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "ConsultFirma"
+author = "ConsultFirma"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -138,7 +98,7 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
 
 # cookies
@@ -191,18 +151,9 @@ copyright = "Copyright &copy; 2020 Designed & Developed by Consultfirma"
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 3
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed & Developed by Consultfirma"
