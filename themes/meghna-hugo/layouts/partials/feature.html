@@ -26,6 +26,9 @@
 								<div class="media-body">
 									<h4 class="media-heading">{{ .title | markdownify }}</h4>
 									<p>{{ .content | markdownify }}</p>
+									{{ if .link}}
+										<a href="{{.link | absURL}}">Link</a>
+									{{ end }}
 								</div>
 							</div>
 						</div>

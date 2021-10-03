@@ -11,7 +11,7 @@
 - id: authorsPosts
   translation: Author's posts
 - id: all
-  translation: All
+  translation: Sve
 - id: about
   translation: About Us
 - id: services
@@ -28,3 +28,5 @@
   translation: Contact
 - id: themefisher
   translation: Themefisher
+- id: bio
+  translation: Biografija

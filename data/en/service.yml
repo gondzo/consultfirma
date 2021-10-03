@@ -1,34 +1,90 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
-  service_item :
-    # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  title : Physiotherapy
+  content : "I'm a Physiotherapist for 28 years working with top athleets and working on clinical therapy as well. My unique aproach is to try solving the CAUSE instead of focusing on symptoms of medical issues common in physiotherapy. My moto is various roads lead to the same goal - ex. 5+5=10 but also 7+3=10 or 6+4=10… **achieving the goal is the ultimate metric**. 
+  
+
+  > PAIN IS TEMPORARY, REGRET AND GIVING UP IS FOREVER
+  
+
+
+  Physiotherapic services:
+
+    
+    - Check-up and consulting
+
+    - Manual therapy
+
+    - Assistance with sports injuries
+
+    - Assistance with accute and chronic inflamations
+
+    - Electrotherapy
+
+    - Laser-therapy
+
+    - Ultrasound-therapy
+
+    - Magnetic-therapy
+
+    - Tecar-therapy
+
+    - Game Ready therapy
+
+    - Normatek therapy
+
+    - Brain stimulation therapy
+
+    - Salt terapija 
+
+    - Vacuum terapija
+
+    - Ergon technique
+
+    - Sports bandage
+
+    - Kinezio taping
+
+    - Individual therapy = training
+  "
+  images :
+    # portfolio item loop
+    - name : Image title 1
+      image : images/haris/slika-1.jpg
+      content : Image description 1
+
+    # portfolio item loop
+    - name : Image title 2
+      image : images/haris/slika-2.jpg
+      content : Image description 2
+
+    # portfolio item loop
+    - name : Image title 3
+      image : images/haris/slika-3.jpg
+      content : Image description 3
+    
+    # portfolio item loop
+    - name : Image title 4
+      image : images/haris/slika-4.jpg
+      content : Image description 4
+
+    # portfolio item loop
+    - name : Image title 5
+      image : images/haris/slika-5.jpg
+      content : Image description 5
+
+    # portfolio item loop
+    - name : Image title 6
+      image : images/haris/slika-6.jpg
+      content : Image description 6
+
+    # portfolio item loop
+    - name : Image title 7
+      image : images/haris/slika-7.jpg
+      content : Image description 7
+
+    # portfolio item loop
+    - name : Image title 8
+      image : images/haris/slika-8.jpg
+      content : Image description 8

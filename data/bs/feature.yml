@@ -1,27 +1,32 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/l2.png
+  title : Naš cilj.
+  content : "Consultfirma je otvorena sa idejom da svoje višegodišnje iskustvo prenese na sve svoje klijente i skupa u sinergiji dođemo do željenog cilja. Domen našeg rada su Sport, Wellness & Spa centri, Programi edukacije, Fitnes centri, prodaja i savjetovanje u svijetu suplemenata i pomagala za terapije. Neki od naših izdvojenih projekata:"
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Lueven Belgija
+      icon : ti-world 
+      content : Opisati šta je cilj projekta
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Tarčin Forest resort
+      icon : ti-panel 
+      content : Opisati šta je cilj projekta
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Projekat OBIS
+      icon : ti-book
+      content : Opisati šta je cilj projekta
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : AKA - kolagen
+      icon : ti-eye
+      content : Opisati šta je cilj projekta
+      link: resources/kolagen.pptx
+
+      # feature item loop
+    - title : Real Balance
+      icon : ti-magnet
+      content : Opisati šta je cilj projekta

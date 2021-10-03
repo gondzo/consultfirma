@@ -6,13 +6,17 @@ about:
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     image : images/content/haris.jpg
     title : Haris Babic
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : O meni
+    link: '#haris'
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    image : images/content/logo.jpg
+    image : images/content/logo-center.png
     title : ConsultFirma
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Čime se bavimo.
+    link: '#feature'
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Ostalo
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Fizioterapije
+    image : images/content/hands.png
+    content : Metode i usluge.
+    link: '#services'

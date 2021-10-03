@@ -1,76 +1,90 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Galerija
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
+    - name : Naslov slike 1
+      image : images/consultfirma/lueven/slika-1.jpg
+      categories : ["Lueven"]
+      content : Opis slike 1.
+
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+    - name : Naslov slike 2
+      image : images/consultfirma/lueven/slika-2.jpg
+      categories : ["Lueven"]
+      content : Opis slike 2.
+
+      # portfolio item loop
+    - name : Naslov slike 3
+      image : images/consultfirma/lueven/slika-3.jpg
+      categories : ["Lueven"]
+      content : Opis slike 3.
       
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      # portfolio item loop
+    - name : Naslov slike 4
+      image : images/consultfirma/lueven/slika-4.jpg
+      categories : ["Lueven"]
+      content : Opis slike 4.
+
+      # portfolio item loop
+    - name : Naslov slike 5
+      image : images/consultfirma/lueven/slika-5.jpg
+      categories : ["Lueven"]
+      content : Opis slike 5.
+
+      # portfolio item loop
+    - name : Naslov slike 6
+      image : images/consultfirma/lueven/slika-6.jpg
+      categories : ["Lueven"]
+      content : Opis slike 6.
+
+      # portfolio item loop
+    - name : Naslov slike 1
+      image : images/consultfirma/tarcin/slika-1.jpg
+      categories : ["Forest Resort"]
+      content : Opis slike 1.
+
+      # portfolio item loop
+    - name : Naslov slike 2
+      image : images/consultfirma/tarcin/slika-2.jpg
+      categories : ["Forest Resort"]
+      content : Opis slike 2.
+
+      # portfolio item loop
+    - name : Naslov slike 3
+      image : images/consultfirma/tarcin/slika-3.jpg
+      categories : ["Forest Resort"]
+      content : Opis slike 3.
+
+      # portfolio item loop
+    - name : Naslov slike 1
+      image : images/consultfirma/obis/slika-1.png
+      categories : ["Obis"]
+      content : Opis slike 1.
+
+      # portfolio item loop
+    - name : Naslov slike 1
+      image : images/consultfirma/aka/slika-1.jpg
+      categories : ["AKA"]
+      content : Opis slike 1.
+
+      # portfolio item loop
+    - name : Naslov slike 2
+      image : images/consultfirma/aka/slika-2.jpg
+      categories : ["AKA"]
+      content : Opis slike 2.
+
+      # portfolio item loop
+    - name : Naslov slike 3
+      image : images/consultfirma/aka/slika-3.jpg
+      categories : ["AKA"]
+      content : Opis slike 3.
+
+      # portfolio item loop
+    - name : Naslov slike 1
+      image : images/consultfirma/motivation/slika-1.png
+      categories : ["Real Motivation"]
+      content : Opis slike 1.
       
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    

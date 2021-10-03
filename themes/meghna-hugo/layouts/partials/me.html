@@ -1,23 +1,19 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.service.service.enable}}
-{{ with $data.service.service}}
-{{"<!-- service -->" | safeHTML }}
-<section id="services" class="bg-one section">
+{{ with $data.me.me }}
+<section class="portfolio section" id="haris">
 	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-12">
-				{{"<!-- section title -->" | safeHTML }}
-				<div class="title text-center wow fadeIn" data-wow-duration="500ms">
+		<div class="row ">
+			<div class="col-xl-12">
+				{{"<!-- section title -->" | safeHTML}}
+				<div class="title text-center">
 					<h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 						{{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
 					<div class="border-meghna"></div>
 				</div>
+				{{"<!-- /section title -->" | safeHTML}}
+				<p>{{ .intro }}</p>
 			</div>
-			{{"<!-- /section title -->" | safeHTML }}
-		</div>
-		<div class="row md">
-			<p>{{.content | markdownify}}</p>
 		</div>
 
 		<div class="row justify-content-center gallery">
@@ -46,8 +42,7 @@
 			</div>
 			{{ end }}
 		</div>
+		<a href="{{ .cvLink | absURL}}" target="_blank"><i class="ti-book"></i> {{ i18n "bio"}}</a>
 	</div>
 </section>
-{{"<!-- /service -->" | safeHTML }}
-{{ end }}
 {{ end }}

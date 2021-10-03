@@ -12,6 +12,7 @@
 			{{"<!-- About item -->" | safeHTML}}
 			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
 				<div class="block">
+					<a href="{{.link}}">
 					<div class="icon-box">
 						{{ if .image }}
 							<img src="{{ .image | absURL }}"/>
@@ -24,6 +25,7 @@
 						<h3>{{ .title }}</h3>
 						<p>{{ .content | markdownify }}</p>
 					</div>
+				</a>
 				</div>
 			</div>
 			{{ end }}

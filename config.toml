@@ -157,3 +157,6 @@ contentDir = "content/english"
 weight = 2
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed & Developed by Consultfirma"
+
+[markup.goldmark.renderer]
+hardWraps = true
