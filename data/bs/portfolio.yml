@@ -64,6 +64,12 @@ portfolio:
       content : Opis slike 1.
 
       # portfolio item loop
+    - name : Naslov slike 2
+      image : images/consultfirma/obis/slika-2.png
+      categories : ["Obis"]
+      content : Opis slike 2.
+
+      # portfolio item loop
     - name : Naslov slike 1
       image : images/consultfirma/aka/slika-1.jpg
       categories : ["AKA"]

@@ -64,6 +64,12 @@ portfolio:
       content : Image description 1.
 
       # portfolio item loop
+    - name : Image title 2
+      image : images/consultfirma/obis/slika-2.png
+      categories : ["Obis"]
+      content : Image description 2.
+
+      # portfolio item loop
     - name : Image title 1
       image : images/consultfirma/aka/slika-1.jpg
       categories : ["AKA"]

@@ -43,3 +43,13 @@ me:
     - name : Image title 8
       image : images/haris/slika-8.jpg
       content : Image description 8
+
+      # portfolio item loop
+    - name : Image title 9
+      image : images/haris/slika-9.jpg
+      content : Image description 9
+
+    # portfolio item loop
+    - name : Image title 10
+      image : images/haris/slika-10.jpg
+      content : Image description 10
