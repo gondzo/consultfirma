@@ -1,45 +1,45 @@
 #################################### portfolio ###############################
 me:
   title : Haris Babić
-  intro: 'Something about me'
+  intro: 'Nesto o meni'
   cvLink: resources/cv2021.pdf
   images :
     # portfolio item loop
-    - name : Image title 1
+    - name : Naslov slike 1
       image : images/haris/slika-1.jpg
-      content : Image description 1
+      content : Opis slike 1
 
     # portfolio item loop
-    - name : Image title 2
+    - name : Naslov slike 2
       image : images/haris/slika-2.jpg
-      content : Image description 2
+      content : Opis slike 2
 
     # portfolio item loop
-    - name : Image title 3
+    - name : Naslov slike 3
       image : images/haris/slika-3.jpg
-      content : Image description 3
+      content : Opis slike 3
     
     # portfolio item loop
-    - name : Image title 4
+    - name : Naslov slike 4
       image : images/haris/slika-4.jpg
-      content : Image description 4
+      content : Opis slike 4
 
     # portfolio item loop
-    - name : Image title 5
+    - name : Naslov slike 5
       image : images/haris/slika-5.jpg
-      content : Image description 5
+      content : Opis slike 5
 
     # portfolio item loop
-    - name : Image title 6
+    - name : Naslov slike 6
       image : images/haris/slika-6.jpg
-      content : Image description 6
+      content : Opis slike 6
 
     # portfolio item loop
-    - name : Image title 7
+    - name : Naslov slike 7
       image : images/haris/slika-7.jpg
-      content : Image description 7
+      content : Opis slike 7
 
     # portfolio item loop
-    - name : Image title 8
+    - name : Naslov slike 8
       image : images/haris/slika-8.jpg
-      content : Image description 8
+      content : Opis slike 8

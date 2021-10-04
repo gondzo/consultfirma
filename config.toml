@@ -45,17 +45,17 @@ link = "plugins/google-map/map.js"
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
 name = "Haris"
-url = "#about"
+url = "#haris"
 weight = 1
 
 [[Languages.en.menu.main]]
 name = "ConsultFirma"
-url = "#services"
+url = "#feature"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "Other"
-url = "#portfolio"
+url = "#services"
 weight = 3
 
 [[Languages.en.menu.main]]
@@ -67,17 +67,17 @@ weight = 4
 ################### Bosnian Navigation ########################
 [[Languages.bs.menu.main]]
 name = "Haris"
-url = "#about"
+url = "#haris"
 weight = 1
 
 [[Languages.bs.menu.main]]
 name = "ConsultFirma"
-url = "#services"
+url = "#feature"
 weight = 2
 
 [[Languages.bs.menu.main]]
 name = "Ostalo"
-url = "#portfolio"
+url = "#services"
 weight = 3
 
 [[Languages.bs.menu.main]]

@@ -5,16 +5,41 @@ me:
   cvLink: resources/cv2021.pdf
   images :
     # portfolio item loop
-    - name : 
+    - name : Image title 1
       image : images/haris/slika-1.jpg
-      content : 
+      content : Image description 1
 
     # portfolio item loop
-    - name : 
+    - name : Image title 2
       image : images/haris/slika-2.jpg
-      content : 
+      content : Image description 2
 
     # portfolio item loop
-    - name : 
+    - name : Image title 3
       image : images/haris/slika-3.jpg
-      content : 
+      content : Image description 3
+    
+    # portfolio item loop
+    - name : Image title 4
+      image : images/haris/slika-4.jpg
+      content : Image description 4
+
+    # portfolio item loop
+    - name : Image title 5
+      image : images/haris/slika-5.jpg
+      content : Image description 5
+
+    # portfolio item loop
+    - name : Image title 6
+      image : images/haris/slika-6.jpg
+      content : Image description 6
+
+    # portfolio item loop
+    - name : Image title 7
+      image : images/haris/slika-7.jpg
+      content : Image description 7
+
+    # portfolio item loop
+    - name : Image title 8
+      image : images/haris/slika-8.jpg
+      content : Image description 8
