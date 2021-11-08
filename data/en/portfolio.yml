@@ -165,18 +165,11 @@ portfolio:
       categories : ["Real Motivation"]
       content : 
 
-      # portfolio item loop
-    - name : Naslov slike 2
-      image : images/consultfirma/motivation/slika-2.png
-      video: 4fBrs8FxuH8
-      categories : ["Real Motivation"]
-      content : Opis slike 2.
-
     # portfolio item loop
-    - name : Naslov slike 2
+    - name : 
       image : images/consultfirma/motivation/slika-2.png
       video: jdsiUBvqMWc
       categories : ["Real Motivation"]
-      content : Opis slike 2.
+      content : 
       
     

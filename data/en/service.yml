@@ -56,11 +56,6 @@ service:
 
     # portfolio item loop
     - name : 
-      image : images/fizio/slika-2.jpg
-      content : 
-
-    # portfolio item loop
-    - name : 
       image : images/fizio/slika-3.jpg
       content : 
     
@@ -102,6 +97,12 @@ service:
     # portfolio item loop
     - name : 
       image : images/fizio/slika-11.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/motivation/slika-2.png
+      video: 4fBrs8FxuH8
       content : 
 
     # portfolio item loop
