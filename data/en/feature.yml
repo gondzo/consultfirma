@@ -5,28 +5,60 @@ feature:
   title : Our goal.
   content : "Consultfirma is started with the idea to transfer our experience to our client projects and work together to achieve common goals. Our primary domains are Sports, Wellness & Spa centers, Education programmes, Fitness centers, sales and consulting for supplements and therapy tools. Some of our prominent projects:"
   feature_item : 
-      # feature item loop
+     # feature item loop
     - title : Lueven Belgija
       icon : ti-world 
-      content : Describe the project goal
+      content : "One completely new story and organization vision. Our main goals are :
+
+        - set high standards of product sales instead of usual service based sales
+
+        - make our unique “better health” method recognizable
+
+        - build a franchise model (long term goal)"
       
       # feature item loop
     - title : Tarčin Forest resort
       icon : ti-panel 
-      content : Describe the project goal
+      content : "ConsultFirma areas of involvement in this project are:
+
+        - early project phase consultant
+
+        - therapy programe management
+
+        - wellness & spa employees education
+
+        - tools procurement
+
+        - engaging with new clients
+
+        - cooperation with other institutions
+
+        - new vision for the welness & spa centre"
 
       # feature item loop
-    - title : Projekat OBIS
+    - title : OBIS project
       icon : ti-book
-      content : Describe the project goal
+      content : "Our current brand project, currently in early stage. Project is 100% owned by ConsultFirma - start to end. We can say OBIS=bright future for our youth. Due to project confidentiality we can't share more details at this time."
       
       # feature item loop
     - title : AKA - kolagen
       icon : ti-eye
-      content : Describe the project goal
+      content : " Our goal is to build a business strategy (with our supervision) to cover:
+
+        - cosmetics saloons
+
+        - health clinics
+
+        - pharmacies
+
+        - shops
+
+        - franchise models
+        
+      Project is active in all Balkan countries."
       link: resources/kolagen.pptx
 
       # feature item loop
     - title : Real Balance
       icon : ti-magnet
-      content : Describe the project goal
+      content : "It's a unique project lead by Mahir Beathouse, we are involved in a specific way as Fizio Haris…"

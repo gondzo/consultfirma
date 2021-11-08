@@ -4,100 +4,179 @@ portfolio:
   title : Gallery
   portfolio_item :
     # portfolio item loop
-    - name : Image title 1
+    - name : 
       image : images/consultfirma/lueven/slika-1.jpg
       categories : ["Lueven"]
-      content : Image description 1.
+      content : 
 
     # portfolio item loop
-    - name : Image title 2
+    - name : 
       image : images/consultfirma/lueven/slika-2.jpg
       categories : ["Lueven"]
-      content : Image description 2.
+      content : 
 
       # portfolio item loop
-    - name : Image title 3
+    - name : 
       image : images/consultfirma/lueven/slika-3.jpg
       categories : ["Lueven"]
-      content : Image description 3.
+      content : 
       
       # portfolio item loop
-    - name : Image title 4
+    - name : 
       image : images/consultfirma/lueven/slika-4.jpg
       categories : ["Lueven"]
-      content : Image description 4.
+      content : 
 
       # portfolio item loop
-    - name : Image title 5
+    - name : 
       image : images/consultfirma/lueven/slika-5.jpg
       categories : ["Lueven"]
-      content : Image description 5.
+      content : 
 
       # portfolio item loop
-    - name : Image title 6
+    - name : 
       image : images/consultfirma/lueven/slika-6.jpg
       categories : ["Lueven"]
-      content : Image description 6.
+      content : 
 
       # portfolio item loop
-    - name : Image title 1
+    - name : 
       image : images/consultfirma/tarcin/slika-1.jpg
       categories : ["Forest Resort"]
-      content : Image description 1.
+      content : 
 
       # portfolio item loop
-    - name : Image title 2
+    - name : 
       image : images/consultfirma/tarcin/slika-2.jpg
       categories : ["Forest Resort"]
-      content : Image description 2.
+      content : 
 
       # portfolio item loop
-    - name : Image title 3
+    - name : 
       image : images/consultfirma/tarcin/slika-3.jpg
       categories : ["Forest Resort"]
-      content : Image description 3.
+      content : 
 
       # portfolio item loop
-    - name : Image title 1
-      image : images/consultfirma/obis/slika-1.png
+    - name : Naslov slike 1
+      image : images/consultfirma/obis/slika-1.jpg
       categories : ["Obis"]
-      content : Image description 1.
+      content : Opis slike 1.
 
       # portfolio item loop
-    - name : Image title 2
-      image : images/consultfirma/obis/slika-2.png
-      categories : ["Obis"]
-      content : Image description 2.
-
-      # portfolio item loop
-    - name : Image title 1
+    - name : Naslov slike 1
       image : images/consultfirma/aka/slika-1.jpg
       categories : ["AKA"]
-      content : Image description 1.
+      content : Opis slike 1.
 
       # portfolio item loop
-    - name : Image title 2
+    - name : Naslov slike 2
       image : images/consultfirma/aka/slika-2.jpg
       categories : ["AKA"]
-      content : Image description 2.
+      content : Opis slike 2.
 
       # portfolio item loop
-    - name : Image title 3
+    - name : Naslov slike 3
       image : images/consultfirma/aka/slika-3.jpg
       categories : ["AKA"]
-      content : Image description 3.
+      content : Opis slike 3.
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/nubis/slika-1.jpg
+      categories : ["Nubis"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/nubis/slika-2.jpg
+      categories : ["Nubis"]
+      content : 
 
       # portfolio item loop
-    - name : Image title 1
-      image : images/consultfirma/motivation/slika-1.png
+    - name : 
+      image : images/consultfirma/nubis/slika-3.jpg
+      categories : ["Nubis"]
+      content : 
+      
+      # portfolio item loop
+    - name : 
+      image : images/consultfirma/nubis/slika-4.jpg
+      categories : ["Nubis"]
+      content : 
+
+      # portfolio item loop
+    - name : 
+      image : images/consultfirma/nubis/slika-5.jpg
+      categories : ["Nubis"]
+      content : 
+
+      # portfolio item loop
+    - name : 
+      image : images/consultfirma/nubis/slika-6.jpg
+      categories : ["Nubis"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/nubis/slika-7.jpg
+      categories : ["Nubis"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/balance/slika-1.jpg
       categories : ["Real Motivation"]
-      content : Image description 1.
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/balance/slika-2.jpg
+      categories : ["Real Motivation"]
+      content : 
 
       # portfolio item loop
-    - name : Image title 2
+    - name : 
+      image : images/consultfirma/balance/slika-3.jpg
+      categories : ["Real Motivation"]
+      content : 
+      
+      # portfolio item loop
+    - name : 
+      image : images/consultfirma/balance/slika-4.jpg
+      categories : ["Real Motivation"]
+      content : 
+
+      # portfolio item loop
+    - name : 
+      image : images/consultfirma/balance/slika-5.jpg
+      categories : ["Real Motivation"]
+      content : 
+
+      # portfolio item loop
+    - name : 
+      image : images/consultfirma/balance/slika-6.jpg
+      categories : ["Real Motivation"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/balance/slika-7.jpg
+      categories : ["Real Motivation"]
+      content : 
+
+      # portfolio item loop
+    - name : Naslov slike 2
       image : images/consultfirma/motivation/slika-2.png
       video: 4fBrs8FxuH8
       categories : ["Real Motivation"]
-      content : Image description 2.
+      content : Opis slike 2.
+
+    # portfolio item loop
+    - name : Naslov slike 2
+      image : images/consultfirma/motivation/slika-2.png
+      video: jdsiUBvqMWc
+      categories : ["Real Motivation"]
+      content : Opis slike 2.
       
     

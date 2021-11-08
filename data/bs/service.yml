@@ -50,41 +50,106 @@ service:
   "
   images :
     # portfolio item loop
-    - name : Naslov slike 1
-      image : images/haris/slika-1.jpg
-      content : Opis slike 1
+    - name : 
+      image : images/fizio/slika-1.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 2
-      image : images/haris/slika-2.jpg
-      content : Opis slike 2
+    - name : 
+      image : images/fizio/slika-2.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 3
-      image : images/haris/slika-3.jpg
-      content : Opis slike 3
+    - name : 
+      image : images/fizio/slika-3.jpg
+      content : 
     
     # portfolio item loop
-    - name : Naslov slike 4
-      image : images/haris/slika-4.jpg
-      content : Opis slike 4
+    - name : 
+      image : images/fizio/slika-4.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 5
-      image : images/haris/slika-5.jpg
-      content : Opis slike 5
+    - name : 
+      image : images/fizio/slika-5.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 6
-      image : images/haris/slika-6.jpg
-      content : Opis slike 6
+    - name : 
+      image : images/fizio/slika-6.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 7
-      image : images/haris/slika-7.jpg
-      content : Opis slike 7
+    - name : 
+      image : images/fizio/slika-7.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 8
-      image : images/haris/slika-8.jpg
-      content : Opis slike 8
+    - name : 
+      image : images/fizio/slika-8.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-9.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-10.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-11.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-12.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-13.jpg
+      content : 
+    
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-14.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-15.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-16.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-17.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-18.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-19.jpg
+      content : 
+    
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-20.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-21.jpg
+      content : 

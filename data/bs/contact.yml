@@ -6,12 +6,9 @@ contact:
   content : 
 
   # Contact details
-  contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Neka adresa, Sarajevo"
-      
+  contact_list:      
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +387-61-000-000"
+      info : "Phone: +387-60-3523-192"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@consultfirma.ba"

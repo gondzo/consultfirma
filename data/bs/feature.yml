@@ -8,25 +8,57 @@ feature:
       # feature item loop
     - title : Lueven Belgija
       icon : ti-world 
-      content : Opisati šta je cilj projekta
+      content : "Ovo je sasvim jedna nova priča i vizija organizacije djelovanja. Nas glavni cilj je :
+
+        - postaviti način rada da se prodaje proizvod na visokom nivou ,a ne klasična usluga
+
+        - da smo prepoznatljivi po svojoj jedinstvenoj metodi rada kod pomoći “bolje zdravlje”
+
+        - da ovakav centar sa vremenom preraste u franšiznu ponudu"
       
       # feature item loop
     - title : Tarčin Forest resort
       icon : ti-panel 
-      content : Opisati šta je cilj projekta
+      content : "Podrucije djelovanja ConsultFirme se svodi na:
+
+        - consultant u ranoj fazi projekta
+
+        - vođenje terapijskog programa
+
+        - edukacija zaposlenih u wellness & spa centru
+
+        - nabavka aparatura i materijala za rad
+
+        - pridobivanje novih klijenata
+
+        - suradnja sa drugim institucijama
+
+        - potpuno nova vizija ovakvog centra…"
 
       # feature item loop
     - title : Projekat OBIS
       icon : ti-book
-      content : Opisati šta je cilj projekta
+      content : "Trenutno je ovo nas paradni projekat koji je u pripremi i mi smo 100% vlasnici projekta od samog početka do kraja. Slobodno mogu da kažem da je OBIS=svijetla budućnost naše omladine.Zbog zaštite projekta koji je trenutno u pripremi, ne možemo dati vise informacija."
       
       # feature item loop
     - title : AKA - kolagen
       icon : ti-eye
-      content : Opisati šta je cilj projekta
+      content : "Nas cilj je uspostaviti strategiju poslovanja ( nas nadzor ),koja će se širiti na :
+
+        - salone kozmetike
+
+        - zdravstvene ambulante
+
+        - apoteke
+
+        - trgovine
+
+        - fransizante
+        
+      Cijeli projekat obuhvata sve zemlje balkana."
       link: resources/kolagen.pptx
 
       # feature item loop
     - title : Real Balance
       icon : ti-magnet
-      content : Opisati šta je cilj projekta
+      content : "To je projekat koji vodi Mahir Beathouse,a mi učestvujemo u njemu na nas specifičan i jedinstven način Fizio Haris…"

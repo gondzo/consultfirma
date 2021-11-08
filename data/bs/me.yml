@@ -1,55 +1,176 @@
 #################################### portfolio ###############################
 me:
   title : Haris Babić
-  intro: 'Nesto o meni'
+  intro: 'Haris je fizioterapeut sa bogatim iskustvom u svijetu sporta (drzavni timovi, olimpijade, klubovi) i ambulantne fizioterapije'
   cvLink: resources/cv2021.pdf
   images :
     # portfolio item loop
-    - name : Naslov slike 1
-      image : images/haris/slika-1.jpg
-      content : Opis slike 1
+    - name : 
+      image : images/haris/ja/slika-1.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 2
-      image : images/haris/slika-2.jpg
-      content : Opis slike 2
+    - name : 
+      image : images/haris/ja/slika-2.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 3
-      image : images/haris/slika-3.jpg
-      content : Opis slike 3
+    - name : 
+      image : images/haris/priznanja/slika-1.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/priznanja/slika-2.jpg
+      content : 
+
+    # portfolio item loop
+    - name: 
+      image : images/haris/priznanja/slika-3.jpg
+      content : 
     
     # portfolio item loop
-    - name : Naslov slike 4
-      image : images/haris/slika-4.jpg
-      content : Opis slike 4
+    - name : 
+      image : images/haris/priznanja/slika-4.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 5
-      image : images/haris/slika-5.jpg
-      content : Opis slike 5
+    - name : 
+      image : images/haris/priznanja/slika-5.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 6
-      image : images/haris/slika-6.jpg
-      content : Opis slike 6
+    - name : 
+      image : images/haris/priznanja/slika-6.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 7
-      image : images/haris/slika-7.jpg
-      content : Opis slike 7
+    - name : 
+      image : images/haris/priznanja/slika-7.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 8
-      image : images/haris/slika-8.jpg
-      content : Opis slike 8
+    - name : 
+      image : images/haris/priznanja/slika-8.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 9
-      image : images/haris/slika-9.jpg
-      content : Opis slike 9
+    - name : 
+      image : images/haris/priznanja/slika-9.jpg
+      content : 
 
     # portfolio item loop
-    - name : Naslov slike 10
-      image : images/haris/slika-10.jpg
-      content : Opis slike 10
+    - name : 
+      image : images/haris/skijanje/slika-1.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/skijanje/slika-2.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-1.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-2.jpg
+      content : 
+
+    # portfolio item loop
+    - name: 
+      image : images/haris/slovenija/slika-3.jpg
+      content : 
+    
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-4.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-5.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-6.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-7.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-8.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-9.jpg
+      content :
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-10.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-11.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/slovenija/slika-12.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/bih/slika-1.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/bih/slika-2.jpg
+      content : 
+
+    # portfolio item loop
+    - name: 
+      image : images/haris/bih/slika-3.jpg
+      content : 
+    
+    # portfolio item loop
+    - name : 
+      image : images/haris/bih/slika-4.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/bih/slika-5.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/bih/slika-6.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/bih/slika-7.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/bih/slika-8.jpg
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/haris/bih/slika-9.jpg
+      content :
+    
