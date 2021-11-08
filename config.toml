@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://test.consultfirma.ba"
+baseURL = "https://www.consultfirma.ba"
 title = "ConsultFirma"
 theme = "meghna-hugo"
 themesDir = "./themes"
