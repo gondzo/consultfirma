@@ -45,21 +45,14 @@ jQuery(function ($) {
 	/*	Portfolio Filtering Hook
 	/* =========================================================================  */
 
-	var containerEl = document.querySelector('.shuffle-wrapper');
-	if (containerEl) {
+	$('.shuffle-wrapper').each((ind,el)=>{
+		console.log(el);
 		var Shuffle = window.Shuffle;
-		var myShuffle = new Shuffle(document.querySelector('.shuffle-wrapper'), {
+		var myShuffle = new Shuffle(el, {
 			itemSelector: '.shuffle-item',
 			buffer: 1
 		});
-
-		jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
-			var input = evt.currentTarget;
-			if (input.checked) {
-				myShuffle.filter(input.value);
-			}
-		});
-	}
+	});
 
 	/* ========================================================================= */
 	/*	Testimonial Carousel
