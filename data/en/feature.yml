@@ -62,3 +62,8 @@ feature:
     - title : Real Balance
       icon : ti-magnet
       content : "It's a unique project lead by Mahir Beathouse, we are involved in a specific way as Fizio Haris…"
+
+    # feature item loop
+    - title : Body&Soul
+      icon : ti-magnet
+      content : "Regeneration center is a place where you need to regenerate completely and gain back your physical and mental form."

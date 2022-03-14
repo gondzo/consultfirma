@@ -62,3 +62,8 @@ feature:
     - title : Real Balance
       icon : ti-magnet
       content : "To je projekat koji vodi Mahir Beathouse,a mi učestvujemo u njemu na nas specifičan i jedinstven način Fizio Haris…"
+
+    # feature item loop
+    - title : Body&Soul
+      icon : ti-magnet
+      content : "Regeneracijski centar je mjesto u kome se Vi trebate u potpunosti regenerirati i vratiti vašu mentalnu i fizičku formu"

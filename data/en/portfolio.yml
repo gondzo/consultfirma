@@ -171,5 +171,71 @@ portfolio:
       video: jdsiUBvqMWc
       categories : ["Real Motivation"]
       content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-1.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-2.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-3.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-4.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-5.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-6.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-7.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-8.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-9.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-10.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-11.jpg
+      categories : ["Body&Soul"]
+      content : 
       
     

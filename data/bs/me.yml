@@ -3,6 +3,7 @@ me:
   title : Haris Babić
   intro: 'Haris je fizioterapeut sa bogatim iskustvom u svijetu sporta (drzavni timovi, olimpijade, klubovi) i ambulantne fizioterapije'
   cvLink: resources/cv2021.pdf
+  bodySoulLink: resources/BROSURA Bos ts.pdf
   images :
     # portfolio item loop
     - name : 
