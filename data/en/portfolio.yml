@@ -171,6 +171,13 @@ portfolio:
       video: jdsiUBvqMWc
       categories : ["Real Motivation"]
       content : 
+    
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/motivation/slika-2.png
+      video: SU-Vus6fd4g
+      categories : ["Real Motivation"]
+      content : 
 
     # portfolio item loop
     - name : 
