@@ -69,6 +69,10 @@ a {
   transition: all .3s ease-in 0s;
 }
 
+a.largeLink{
+  font-size: 2em;
+}
+
 iframe {
   border: 0;
 }
