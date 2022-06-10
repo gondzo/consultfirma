@@ -164,6 +164,18 @@ portfolio:
       image : images/consultfirma/balance/slika-7.jpg
       categories : ["Real Motivation"]
       content : 
+    
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/balance/slika-8.jpg
+      categories : ["Real Motivation"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/balance/slika-9.jpg
+      categories : ["Real Motivation"]
+      content : 
 
     # portfolio item loop
     - name : 
@@ -176,6 +188,20 @@ portfolio:
     - name : 
       image : images/consultfirma/motivation/slika-2.png
       video: SU-Vus6fd4g
+      categories : ["Real Motivation"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/motivation/slika-2.png
+      video: 4fBrs8FxuH8
+      categories : ["Real Motivation"]
+      content :
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/motivation/slika-2.png
+      video: Y6ZUQzGrfsM
       categories : ["Real Motivation"]
       content : 
 
@@ -242,6 +268,18 @@ portfolio:
     # portfolio item loop
     - name : 
       image : images/consultfirma/bodysoul/slika-11.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-12.jpg
+      categories : ["Body&Soul"]
+      content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/consultfirma/bodysoul/slika-13.jpg
       categories : ["Body&Soul"]
       content : 
       
