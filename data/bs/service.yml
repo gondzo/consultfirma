@@ -148,3 +148,8 @@ service:
     - name : 
       image : images/fizio/slika-21.jpg
       content : 
+
+    # portfolio item loop
+    - name : 
+      image : images/fizio/slika-22.jpg
+      content : 
